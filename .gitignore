@@ -1,0 +1,28 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/build/
+web/.DS_Store
+web/jobs.json
+npm-debug.log*
+
+# Temporary Media
+.tmp/
+audio.mp3
+test.mp3
+transcript.txt
+*.mp3
+*.txt
+*.mp4
+*.webm
+
+# OS files
+.DS_Store
+Thumbs.db
